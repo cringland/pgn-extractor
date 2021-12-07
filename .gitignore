@@ -15,4 +15,4 @@ target/
 .DS_Store
 
 *.pgn.bz2
-*.csv
+*.csv*
